@@ -7,5 +7,5 @@
 Before publishing:
 - Confirm each project repository URL exists and is public.
 - Remove any technology icons you do not want to claim.
-- The animated header, typing SVG, skill icons, and activity graph use external services.
+- The animated header, typing SVG, skill icons, and GitHub profile summary card use external services.
 - `assets/terminal.gif` is local to this repository and will work once uploaded with the README.
